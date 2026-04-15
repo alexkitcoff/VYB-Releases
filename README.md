@@ -1,6 +1,6 @@
 # VYB Releases
 
-Official release binaries for VYB (macOS).
+Official release binaries for VYB Host (macOS).
 
 ## Download
 
@@ -11,8 +11,8 @@ Official release binaries for VYB (macOS).
 
 1. Download the latest `.dmg`
 2. Open the `.dmg`
-3. Drag **VYB** to **Applications**
-4. Open **VYB** from Applications
+3. Drag **VYB Host** to **Applications**
+4. Open **VYB Host** from Applications
 
 ## Notes
 
